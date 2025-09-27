@@ -60,7 +60,7 @@ Unlike traditional **3D structure-based tools**, which require experimentally so
 │── PDBbind_Preprocessing/         # Scripts for preprocessing PDBbind data
 │── scPDB_Preprocessing/           # Scripts for preprocessing scPDB data
 │── Pseq2Sites_presentation.pdf    # My project presentation slides
-│── README.md                      # Project documentation (this file)
+└── README.md                      # Project documentation (this file)
 
 ```
 
