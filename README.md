@@ -4,8 +4,6 @@
 ---
 
 ## Overview
-This repository hosts my **Bachelor Project** on benchmarking machine learning approaches for **protein–ligand binding site prediction** using only **protein sequences**.
-
 The project is based on [**Pseq2Sites**](https://github.com/Blue1993/Pseq2Sites), a state-of-the-art deep learning method that combines:
 - **1D Convolutional Neural Networks (CNNs):** capture local sequence motifs (potential binding pockets).
 - **Position-based Attention Mechanism:** model long-range dependencies between amino acids that may form binding sites together.
