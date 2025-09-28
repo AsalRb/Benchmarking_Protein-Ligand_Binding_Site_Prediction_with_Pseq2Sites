@@ -4,11 +4,9 @@
 ---
 
 ## Overview
-The project is based on [**Pseq2Sites**](https://github.com/Blue1993/Pseq2Sites), a state-of-the-art deep learning method that combines:
+The project is based on [**Pseq2Sites**](https://github.com/Blue1993/Pseq2Sites), which :
 - **1D Convolutional Neural Networks (CNNs):** capture local sequence motifs (potential binding pockets).
 - **Position-based Attention Mechanism:** model long-range dependencies between amino acids that may form binding sites together.
-
-Unlike traditional **3D structure-based tools**, which require experimentally solved structures, Pseq2Sites uses only protein sequences, making it faster and more widely applicable in **drug discovery and bioinformatics**.
 
 ---
 
