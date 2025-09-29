@@ -4,7 +4,7 @@
 ---
 
 ## Overview
-The project is based on [**Pseq2Sites**](https://github.com/Blue1993/Pseq2Sites), which :
+The project is based on [**Pseq2Sites**](https://github.com/Blue1993/Pseq2Sites), which uses only protein sequences to detect ligand–protein binding sites:
 - **1D Convolutional Neural Networks (CNNs):** capture local sequence motifs (potential binding pockets).
 - **Position-based Attention Mechanism:** model long-range dependencies between amino acids that may form binding sites together.
 
